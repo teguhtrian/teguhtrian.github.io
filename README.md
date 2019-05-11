@@ -1,2 +1,2 @@
 # teguhtrian.github.io
-private web
+for portofolio site
